@@ -1,2 +1,3 @@
 # Weather-App
-This tell you the  weather app
+This tell you the   real time of a certain location .
+
